@@ -1,0 +1,15 @@
+testjpa\dto\documentTypeDto.class
+testjpa\testjpa\repo\QueryNativeRepository.class
+testjpa\ExceptionController.class
+testjpa\testjpa\repo\stateRepoistory.class
+testjpa\App.class
+testjpa\TestController.class
+testjpa\TestException.class
+testjpa\ResponseBean.class
+testjpa\testjpa\repo\CustomRepoistory.class
+testjpa\testjpa\repo\CustomRepositoryImpl.class
+testjpa\testjpa\domain\RootEntity.class
+testjpa\testjpa\domain\State.class
+testjpa\dto\DocumentDto.class
+testjpa\testjpa\domain\documenttype.class
+testjpa\RuleService.class
